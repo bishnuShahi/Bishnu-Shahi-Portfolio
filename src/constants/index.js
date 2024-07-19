@@ -21,7 +21,7 @@ export const EDUCATION = [
     college: " Army Public School",
     place: "Varanasi Cantt, Varanasi",
     timeline: "2019 - 2020",
-    cgpa: "84%",
+    cgpa: "88.4%",
     skills: ["Physics", "Chemistry", "Biology"],
   },
 ]
