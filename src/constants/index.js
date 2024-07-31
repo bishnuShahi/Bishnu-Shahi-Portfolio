@@ -41,11 +41,11 @@ export const PROJECTS = [
   },
   {
     title: "Pet Breed Classification",
-    link: "https://github.com/bishnuShahi/PawFinder-Project",
+    link: "https://github.com/bishnuShahi/Pet-Breed-Classification",
     image: project2,
     description:
-      "An application for accurately classifying the breed of cats and dogs. Achieved accuracy of 97% by fine-tuning pre-trained model and using feature stacking technique for both dog breeds and cat breeds. Integrated with a user-friendly interface with user sign-up/login and robust authentication system.",
-    technologies: ["HTML", "CSS", "Django", "TensorFlow", "Keras"],
+      "An application for accurately classifying the breed of dogs. Achieved accuracy of 97% by fine-tuning pre-trained model. Built an API for ML model inference and integrated with user-friendly UI having user sign-up/login and robust authentication system.",
+    technologies: ["HTML", "Tailwind", "Django", "FastAPI"],
   },
 ];
 
