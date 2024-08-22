@@ -51,6 +51,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Ward no. 12, Harkapur, Gaidakot, Nepal",
-  phoneNo: "+91 9120428774",
+  phoneNo: "+91 9120428774  |  +977 9704450336",
   email: "bishnushahi2003@gmail.com",
 };
